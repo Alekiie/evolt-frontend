@@ -1,0 +1,11 @@
+export { default as LandingPageImage } from "./landing_page_Image.png";
+export { default as Car_Charging } from "./car-charging.jpg";
+export { default as Charging } from "./charging.jpg";
+export { default as Customerservice } from "./customer-service.jpg";
+export { default as EcoFriendly } from "./eco-friendly.jpg";
+export { default as White_Car_Charging } from "./white-car-charging.jpg";
+export { default as Maintenance } from "./maintenance.jpg";
+export { default as Motorbike_Charge } from "./motorbike_charge.jpg";
+export { default as Consultation } from "./consultation.jpg";
+export { default as Monitoring } from "./monitoring.jpg";
+export { default as LogoImage } from "./logo/evolt_logo.png";
